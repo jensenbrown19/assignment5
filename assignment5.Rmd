@@ -6,3 +6,5 @@ output: html_document
 ---
 
 github link: https://github.com/jensenbrown19/assignment5.git
+
+reference: Collins, S.J. and Russell, R. W. (2009) Toxicity of road salt to Nova Scotia amphibians. *Environmental Pollution, 157*(1), 320-324. DOI: 10.1016/j.envpol.2008.06.032
