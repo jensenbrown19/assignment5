@@ -5,6 +5,10 @@ date: "12/10/2021"
 output: html_document
 ---
 
-github link: https://github.com/jensenbrown19/assignment5.git
+github link: [Link](https://github.com/jensenbrown19/assignment5.git
 
 reference: Collins, S.J. and Russell, R. W. (2009) Toxicity of road salt to Nova Scotia amphibians. *Environmental Pollution, 157*(1), 320-324. DOI: 10.1016/j.envpol.2008.06.032
+
+## Introduction
+
+  Here in Atlantic Canada, the release of chemical pollutants into wetlands from roadside runoff is a large issue. One of the most popular pollutants we see is salt (NaCl), which is used to help dissolve ice that forms on paved roads during the winter. In this study, 26 roadside ponds were surveyed for amphibian species richness and chloride concentration. It was concluded that chloride concentrations in ponds due to the application of de-icing salts on roads influenced community structure by excluding salt intolerant species.
