@@ -12,3 +12,7 @@ reference: Collins, S.J. and Russell, R. W. (2009) Toxicity of road salt to Nova
 ## Introduction
 
   Here in Atlantic Canada, the release of chemical pollutants into wetlands from roadside runoff is a large issue. One of the most popular pollutants we see is salt (NaCl), which is used to help dissolve ice that forms on paved roads during the winter. In this study, 26 roadside ponds were surveyed for amphibian species richness and chloride concentration. It was concluded that chloride concentrations in ponds due to the application of de-icing salts on roads influenced community structure by excluding salt intolerant species.
+  
+## Methods
+
+  26 ponds within 60m of secondary roads or highways were sampled for presence of various amphibian species. Auditory surveys were conducted from April through July between 10:00 pm and 4:00 am, and consisted of listening for distinctive calls of amphibian species. Each pond was surveyed 14 times over the entire sampling period, with approximately 3 to 5 minutes spent listening during each sampling at each site.
