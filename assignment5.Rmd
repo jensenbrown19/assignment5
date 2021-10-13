@@ -20,4 +20,6 @@ reference: Collins, S.J. and Russell, R. W. (2009) Toxicity of road salt to Nova
   
 ## Results
 
-  
+![Figure 1. Effects of chloride on amphibian species richness. Regression line is shown with regression equation](figure1.jpg)
+
+  8 of the 12 amphibian species present in Nova Scotia were observed in the study ponds. Mean species richness was 2.8 ± 0.3 species. There was no relationship detected between the distance to the road and the species richness found within the ponds. There was however a significant relationship between chloride concentration in ponds and amphibian species richness, as seen in figure 1. Species richness decreased with increasing chloride concentration. 
